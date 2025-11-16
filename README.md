@@ -5,3 +5,6 @@ https://github.com/amyoshi-hub/OSAI-browser
 ![Tauri](https://img.shields.io/badge/Tauri-66C2FF?style=for-the-badge&logo=tauri&logoColor=white)
 
 tauriは2.5.1なので触ってみたい方はぜひ
+
+## HELP
+https://github.com/amyoshi-hub/MEKOU-HELP/tree/main
